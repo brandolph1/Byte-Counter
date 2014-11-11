@@ -14,6 +14,7 @@
     <ProjectGuid>{A8B791BC-CD7E-4078-8435-042148BA100B}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>ByteCounter</RootNamespace>
+    <ProjectName>Byte-Counter</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
